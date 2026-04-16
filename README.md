@@ -59,6 +59,18 @@ Carving out the angled foregrip
 Catch housing and mechanism
 
 
+<img width="400" height="300" alt="20180822_183510" src="https://github.com/user-attachments/assets/e0998a22-f720-4f1e-9834-a4728a663405" />
+<img width="400" height="300" alt="20180822_225937" src="https://github.com/user-attachments/assets/2c0ab5fd-f95b-47c4-8b97-7cc3e5b08dd3" />
+<img width="400" height="300" alt="20180823_002817" src="https://github.com/user-attachments/assets/ca140826-a581-440c-bff3-09081d05e6fd" />
+<img width="400" height="300" alt="20180823_095008" src="https://github.com/user-attachments/assets/bc5d33de-db22-4699-b0cc-a84d097d5226" />
+<img width="300" height="400" alt="20180823_101706" src="https://github.com/user-attachments/assets/ac4b540a-4be9-46ad-8852-167ae1b38ab9" />
+<img width="300" height="400" alt="20180823_103133" src="https://github.com/user-attachments/assets/2f40cf70-683d-4ba9-b503-31b4824b5267" />
+<img width="300" height="400" alt="20180823_103143" src="https://github.com/user-attachments/assets/773e7260-806d-4d47-8403-ab958407fe9e" />
+
+Painting the body with bright snake-skin pattern
+
+<img width="2592" height="1356" alt="IMG_20220213_213012-rotate-crop" src="https://github.com/user-attachments/assets/c89331bb-d352-4a12-98dd-24ffd80c23e3" />
+
 
 ## 3. More sections for future edits
 To be added
