@@ -11,8 +11,8 @@ So like every good maker, I decided to design and build my own Nerf blaster from
 
 This was back in the days when 3D-printing was growing, but still relatively inaccessible. 
 If I were to build anything, I will hand-craft everything myself (just like my airplanes).
-To be clear, this is not my first attempt at building a DIY Nerf blaster: 
-I had built a hybrid of SgNerf's [SGN-R3L](https://nerfhaven.com/forums/topic/20453-r-series-blasters-overview/) and [SGN-PAR55M](https://nerfhaven.com/forums/topic/21061-sgn-par55m-overview). Essentially a pump-action R3L with my own twist.
+To be clear, this is not my first attempt at building a DIY Nerf blaster:
+I had built a hybrid of SgNerf's [SGN-R3L](https://nerfhaven.com/forums/topic/20453-r-series-blasters-overview/) and [SGN-PAR55M](https://nerfhaven.com/forums/topic/21061-sgn-par55m-overview), which is essentially a pump-action R3L with my own twist.
 I am indebted to SgNerf's designs (particularly the PVC ring catch mechanism) among others. I stand on the shoulders of giants.
 
 This is the only decent first-person-view footage I have of the blaster in action in 2024, 9 years since the project started, 7 years since it started blasting.
