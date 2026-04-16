@@ -22,8 +22,7 @@ The initial build took 2+ years and is crafted entirely by hand (and a dremel). 
 
 ## 1. Basic design
 An animated GIF showing the basic operation of the firing mechanism. Note the top-loading magazine: it was one of the initial design configuration, used here for illustration of the feeding mechanism.
-<img width="1470" height="623" alt="12-Frames" src="https://github.com/user-attachments/assets/16b42262-b1be-4f69-8562-e58c73e66ce5" />
-
+<img width="1470" height="623" alt="12-Frames" src="https://github.com/user-attachments/assets/59949050-bc19-46e8-a8f6-ac4db021a29c" />
 
 A photo of the working blaster. Functional, magazine well not attached. Also, note the different trigger (it ought never to have existed).
 <img width="5312" height="2988" alt="20170715_163450" src="https://github.com/user-attachments/assets/7b031daa-b036-4f41-b10e-ce949d4109c8" />
