@@ -1,4 +1,5 @@
 # This is my hand-built Nerf blaster, and there is only one of it
+<img width="4016" height="1359" alt="20171112_222939-cropped" src="https://github.com/user-attachments/assets/cf788218-6b58-4e26-ba06-1cc652420ce4" />
 <img width="5270" height="3944" alt="DSC03282-edit" src="https://github.com/user-attachments/assets/9a922f63-69a6-49b0-8e29-18ddcea84ec3" />
 
 ## 0. Motivation
@@ -21,7 +22,8 @@ The initial build took 2+ years and is crafted entirely by hand (and a dremel). 
 
 ## 1. Basic design
 An animated GIF showing the basic operation of the firing mechanism. Note the top-loading magazine: it was one of the initial design configuration, used here for illustration of the feeding mechanism.
-<img width="1470" height="623" alt="12-Frames" src="https://github.com/user-attachments/assets/e07b7010-f721-468a-b764-416ae81ada1a" />
+<img width="1470" height="623" alt="12-Frames" src="https://github.com/user-attachments/assets/16b42262-b1be-4f69-8562-e58c73e66ce5" />
+
 
 A photo of the working blaster. Functional, magazine well not attached. Also, note the different trigger (it ought never to have existed).
 <img width="5312" height="2988" alt="20170715_163450" src="https://github.com/user-attachments/assets/7b031daa-b036-4f41-b10e-ce949d4109c8" />
