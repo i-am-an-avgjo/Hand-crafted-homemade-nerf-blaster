@@ -1,8 +1,8 @@
-# This is my hand-built Nerf blaster, and there is none other like it
+# This is my hand-built Nerf blaster, and there is only one of it
 <img width="5270" height="3944" alt="DSC03282-edit" src="https://github.com/user-attachments/assets/9a922f63-69a6-49b0-8e29-18ddcea84ec3" />
 
 ## 0. Motivation
-The only reason that justifies the existence of this blaster is that I had the itch to build something, and I had the boy-ish fantasies of being a sn1p3r (after playing some FPS).
+The only reason that justifies the existence of this blaster is that I had the itch to build something from scratch, and I had the boy-ish fantasies of being a sn1p3r (after playing some FPS).
 
 Back in 2015, I was finishing high school. 
 I had just recently entered the Nerfing space, but I have had plenty of experience in tinkering and making things (particularly remote-controlled airplanes).
@@ -14,13 +14,13 @@ To be clear, this is not my first attempt at building a DIY Nerf blaster:
 I had built a derivative of SgNerf's [SGN-R3L](https://nerfhaven.com/forums/topic/20453-r-series-blasters-overview/) with some of my own modifications.
 I am indebted to SgNerf's designs (particularly the PVC ring catch mechanism) among others. I stand on the shoulders of giants.
 
-This is the only decent first-person-view footage I have of the blaster in action in 2024.
+This is the only decent first-person-view footage I have of the blaster in action in 2024, 9 years since the project started, 7 years since it started blasting.
 [![Maybe this is an excuse to play more Nerf](https://i.ytimg.com/vi/SEz8cOOPodA/maxresdefault.jpg)](https://youtu.be/SEz8cOOPodA?si=XZf1FmElIu2mZSkQ&t=55)
 
 The initial build took 2+ years and is crafted entirely by hand (and a dremel). It has undergone numerous modifications (and repairs) through the years, eventually adopting some 3D-printed parts.
 
 ## 1. Basic design
-An animated GIF showing the basic operation of the firing mechanism
+An animated GIF showing the basic operation of the firing mechanism. Note the top-loading magazine: it was one of the initial design configuration, used here for illustration of the feeding mechanism.
 <img width="1470" height="623" alt="11-Frames" src="https://github.com/user-attachments/assets/568cad04-fdbb-46d4-93da-cb8a3073aaf5" />
 
 A photo of the mostly finished blaster. Functional, but missing the magazine well. Also, note the different trigger (it ought never to have existed).
@@ -55,3 +55,8 @@ Carving out the angled foregrip
 <img width="400" height="300" alt="20180312_154123" src="https://github.com/user-attachments/assets/7e371318-7df0-4227-86f5-3b210f83417e" />
 
 Catch housing and mechanism
+
+## Do I recommend it?
+In short, this design, while perfectly functional and fun to use, is hardly competitive, and hardly replicable. The main reason for its existence, again, because I had the itch to make something from scratch. It is still a joy to use, and a conversation starter. If I were to build a new blaster, it will be an entirely new design, taking inspiration from the latest advances in the the Nerfing scene.
+
+For those who are curious enough, I have recently taken the liberty of cleaning up and organising the SketchUp design file so that it is more intelligible. There are incomplete screws, and it does not include the latest changes incorporating 3D-printing. It is there mainly as a reference, and hopefully an inspiration. You can use SketchUp 8 Free (the last great free version of SketchUp) to open and edit it.
