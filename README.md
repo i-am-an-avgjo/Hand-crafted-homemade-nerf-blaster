@@ -1,4 +1,4 @@
-# This is my built from scratch Nerf blaster, and there is none other like it
+# This is my hand-built Nerf blaster, and there is none other like it
 <img width="5270" height="3944" alt="DSC03282-edit" src="https://github.com/user-attachments/assets/9a922f63-69a6-49b0-8e29-18ddcea84ec3" />
 
 ## 0. Motivation
@@ -17,10 +17,13 @@ I am indebted to SgNerf's designs (particularly the PVC ring catch mechanism) am
 This is the only decent first-person-view footage I have of the blaster in action in 2024.
 [![Maybe this is an excuse to play more Nerf](https://i.ytimg.com/vi/SEz8cOOPodA/maxresdefault.jpg)](https://youtu.be/SEz8cOOPodA?si=XZf1FmElIu2mZSkQ&t=55)
 
-The initial build took 2+ years and is crafted entirely by hand (and a dremel). It has undergone numerous modifications (and repairs) through the years, eventually using 3D-printed parts.
+The initial build took 2+ years and is crafted entirely by hand (and a dremel). It has undergone numerous modifications (and repairs) through the years, eventually adopting some 3D-printed parts.
 
 ## 1. Basic design
-A photo of the mainly finished blaster. Functional, but missing the magazine well. Also, note the different trigger (it ought never to have existed).
+An animated GIF showing the basic operation of the firing mechanism
+<img width="1470" height="623" alt="11-Frames" src="https://github.com/user-attachments/assets/568cad04-fdbb-46d4-93da-cb8a3073aaf5" />
+
+A photo of the mostly finished blaster. Functional, but missing the magazine well. Also, note the different trigger (it ought never to have existed).
 <img width="5312" height="2988" alt="20170715_163450" src="https://github.com/user-attachments/assets/7b031daa-b036-4f41-b10e-ce949d4109c8" />
 
 A side view of the assembled blaster in SketchUp
@@ -30,16 +33,25 @@ An exploded view of the main sub-assemblies: The front group, the rear group
 <img width="1806" height="747" alt="image" src="https://github.com/user-attachments/assets/ad7df056-6ba8-4120-8f1f-0651f07950e2" />
 
 ## 2. Random Build Photos (to be sorted later)
+<img width="400" height="225" alt="20170712_133828" src="https://github.com/user-attachments/assets/10f44fd5-2d9e-4268-a236-2c2205825dd2" />
+<img width="400" height="225" alt="20170712_154636" src="https://github.com/user-attachments/assets/5b1b00e4-357a-4abe-a20d-163ab397c107" />
+<img width="400" height="225" alt="20170712_161503" src="https://github.com/user-attachments/assets/603372a0-daf1-46e1-86e0-c976143e0a11" />
+<img width="400" height="225" alt="20170712_161508" src="https://github.com/user-attachments/assets/25f8c7fb-416b-4604-a530-5b8f66bc4011" />
+<img width="400" height="225" alt="20170713_111316" src="https://github.com/user-attachments/assets/a9da9b36-3d22-4ccc-8167-5b30223944e7" />
+<img width="400" height="225" alt="20170712_161527" src="https://github.com/user-attachments/assets/f2aae43b-139e-42bd-b944-0c3cc1dc5c41" />
+<img width="400" height="225" alt="20170713_111201" src="https://github.com/user-attachments/assets/ce4896f0-e487-41df-8e4c-ae5d28e44d76" />
+<img width="400" height="225" alt="20170713_221009" src="https://github.com/user-attachments/assets/0f305bb0-c029-4a78-bf23-da073e6def91" />
+<img width="400" height="225" alt="20170715_152338" src="https://github.com/user-attachments/assets/4acc6553-84cd-40f5-9510-35c08e19eb57" />
+<img width="400" height="225" alt="20170715_160733" src="https://github.com/user-attachments/assets/2781f295-7b33-486f-a4a6-24bd823a4a4e" />
+<img width="400" height="225" alt="20170715_160728" src="https://github.com/user-attachments/assets/2e816a11-e952-4030-9f6d-44b7346bbac7" />
+<img width="400" height="225" alt="20170715_160743" src="https://github.com/user-attachments/assets/93c5fcf6-f5f3-4a89-a724-2275e7dcaea5" />
+
 Carving out the angled foregrip
-<img width="5312" height="2988" alt="20170712_133828" src="https://github.com/user-attachments/assets/10f44fd5-2d9e-4268-a236-2c2205825dd2" />
-<img width="5312" height="2988" alt="20170712_154636" src="https://github.com/user-attachments/assets/5b1b00e4-357a-4abe-a20d-163ab397c107" />
-<img width="5312" height="2988" alt="20170712_161503" src="https://github.com/user-attachments/assets/603372a0-daf1-46e1-86e0-c976143e0a11" />
-<img width="5312" height="2988" alt="20170712_161508" src="https://github.com/user-attachments/assets/25f8c7fb-416b-4604-a530-5b8f66bc4011" />
-<img width="5312" height="2988" alt="20170713_111316" src="https://github.com/user-attachments/assets/a9da9b36-3d22-4ccc-8167-5b30223944e7" />
-<img width="5312" height="2988" alt="20170712_161527" src="https://github.com/user-attachments/assets/f2aae43b-139e-42bd-b944-0c3cc1dc5c41" />
-<img width="5312" height="2988" alt="20170713_111201" src="https://github.com/user-attachments/assets/ce4896f0-e487-41df-8e4c-ae5d28e44d76" />
-<img width="5312" height="2988" alt="20170713_221009" src="https://github.com/user-attachments/assets/0f305bb0-c029-4a78-bf23-da073e6def91" />
-<img width="5312" height="2988" alt="20170715_152338" src="https://github.com/user-attachments/assets/4acc6553-84cd-40f5-9510-35c08e19eb57" />
-<img width="5312" height="2988" alt="20170715_160733" src="https://github.com/user-attachments/assets/2781f295-7b33-486f-a4a6-24bd823a4a4e" />
-<img width="5312" height="2988" alt="20170715_160728" src="https://github.com/user-attachments/assets/2e816a11-e952-4030-9f6d-44b7346bbac7" />
-<img width="5312" height="2988" alt="20170715_160743" src="https://github.com/user-attachments/assets/93c5fcf6-f5f3-4a89-a724-2275e7dcaea5" />
+
+
+<img width="300" height="400" alt="20180312_153915" src="https://github.com/user-attachments/assets/b608a6f2-5c76-4783-935b-8d5efcf9208b" />
+<img width="400" height="300" alt="20180312_154016" src="https://github.com/user-attachments/assets/632ab268-5030-42f5-83c5-545e8b4fe231" />
+<img width="400" height="300" alt="20180312_154116" src="https://github.com/user-attachments/assets/d5ec5b1e-3ac0-41fd-bdae-21e9e41fda9b" />
+<img width="400" height="300" alt="20180312_154123" src="https://github.com/user-attachments/assets/7e371318-7df0-4227-86f5-3b210f83417e" />
+
+Catch housing and mechanism
